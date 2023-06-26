@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Clone of Whatsapp</string>
+    <string name="enter_login_details">Enter Login Details</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="log_in">log in</string>
+    <string name="whatsapp_logo">whatsapp logo</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="sign_up">sign up</string>
+    <string name="sign_in">sign in</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account ? Sign Up</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log Out</string>
+    <string name="TabLayout">TabLayout</string>
+    <string name="viewPager">viewPager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="receiverUserName">receiverUserName</string>
+</resources>
